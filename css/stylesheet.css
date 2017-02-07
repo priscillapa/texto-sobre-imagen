@@ -1,0 +1,134 @@
+.conteiner {
+
+    width: 890px;
+    margin: 0 auto;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+body {
+
+    background-color: #FFEFFF;
+}
+
+.miamititulo {
+
+     color: white;
+     position: absolute;
+     top: 200px; 
+     left: 0; 
+     width: 100%;
+     font-family: 'Fugaz One', cursive;
+     font-size: 2em;
+     padding: 50px;
+
+}
+
+.vailtitulo {
+
+    color:white;
+     position: absolute;
+     top: 200px; 
+     left: 0; 
+     width: 100%;
+     font-family: 'Fugaz One', cursive;
+     font-size: 2em;
+     padding: 50px 700px;
+
+}
+
+
+.vail1:hover {
+
+     opacity: 0.3; 
+     filter: alpha(opacity=30);
+}
+
+.miami1 {
+
+    margin: 10px;
+    border-radius: 6px;
+}
+
+
+.miami1:hover {
+
+     opacity: 0.3; 
+     filter: alpha(opacity=30);
+}
+
+
+.vail1 {
+
+    margin: 10px;
+    border-radius: 6px;
+}
+
+.fotos {
+
+     position: relative; 
+     width: 100%;
+     margin-left: 15px;
+}
+
+h1 {
+
+    font-size: 3em;
+    text-align: center;
+    margin: 30px;
+    font-family: 'Fugaz One', cursive;
+
+}
+
+
+.fotos {
+
+    margin-left: 0px;
+}
+
+.fotos2 {
+
+    border: 9px solid white;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+
+
+}
+
+@media only screen and (max-width: 800px) {
+
+    h1 {
+
+        font-size: 2.5em;
+        margin-right: 300px;
+        margin-top: -40px;
+
+
+    }
+
+
+
+.fotos {
+
+    position: absolute;
+    margin-left: 80px;
+}
+
+
+
+.vailtitulo {
+
+    color:white;
+     position: absolute;
+     top: 200px; 
+     left: 0; 
+     width: 100%;
+     font-family: 'Fugaz One', cursive;
+     font-size: 2em;
+     padding: 380px 260px;
+
+}
+
+
